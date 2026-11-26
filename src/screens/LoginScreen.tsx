@@ -142,9 +142,6 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({
         </div>
 
         <div className="mt-[14px] flex items-center justify-between">
-          <span className="text-[11px] font-medium text-[#62758a]">
-            Demo: User@email.com / password123
-          </span>
           <button
             type="button"
             onClick={() => {
